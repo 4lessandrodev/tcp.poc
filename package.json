@@ -1,0 +1,13 @@
+{
+  "name": "tcp.poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "4lessandroDev",
+  "license": "MIT",
+  "scripts": {
+    "start": "pm2 start ./src/ecosystem.config.js"
+  },
+  "dependencies": {
+    "pm2": "^5.4.3"
+  }
+}

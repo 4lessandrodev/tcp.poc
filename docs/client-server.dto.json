@@ -1,0 +1,13 @@
+{
+  "header": {
+    "messageId": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "timestamp": "2023-10-10T14:30:00.000Z",
+    "messageType": "request"
+  },
+  "body": {
+    "action": "getUserInfo",
+    "data": {
+      "userId": 42
+    }
+  }
+}
